@@ -13,6 +13,7 @@ public class SuperDuperDemo {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        System.out.println(doc.title());
+        System.out.println("Titre de page: " + doc.title());
+        System.out.println("Balise H1: " + doc.getElementsByTag("h1").html());
     }
 }
