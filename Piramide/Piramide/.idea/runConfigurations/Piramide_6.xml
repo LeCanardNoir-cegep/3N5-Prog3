@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Piramide-6" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.pouliot.App" />
+    <module name="Piramide" />
+    <option name="PROGRAM_PARAMETERS" value="6" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
