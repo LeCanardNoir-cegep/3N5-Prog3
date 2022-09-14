@@ -4,7 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9714701d-51bf-4f28-bf6b-0daee3294aff" name="Changes" comment="" />
+    <list default="true" id="9714701d-51bf-4f28-bf6b-0daee3294aff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/.idea/artifacts/FilesManagment_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/FilesManagment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/myName.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/EcritFichier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/EntrezUnNombre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/Exemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/ListeSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/LitFichier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/NoteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/NoteClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/TriComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/TriSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/TrouvePisCompte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/Truc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/main/java/org/pouliot/vide.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/src/test/java/org/pouliot/ExempleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FilesManagment/FilesManagment/target/classes/vide.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,19 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/devle/Documents/Workbench/GitRepo/Programmation3/3N5-Prog3/Piramide/Piramide",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/devle/Documents/Workbench/GitRepo/Programmation3/3N5-Prog3/Piramide/Piramide&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Piramide-10">
     <configuration name="Piramide-3" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="org.pouliot.App" />
@@ -71,6 +101,7 @@
       <updated>1661891757568</updated>
       <workItem from="1661891758787" duration="4847000" />
       <workItem from="1662125114686" duration="112000" />
+      <workItem from="1663126905242" duration="11000" />
     </task>
     <servers />
   </component>
