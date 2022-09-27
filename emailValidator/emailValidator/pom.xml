@@ -3,23 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.pouliot</groupId>
-  <artifactId>Jsoup</artifactId>
-  <version>1.0</version>
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <configuration>
-          <source>8</source>
-          <target>8</target>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
+  <artifactId>emailValidator</artifactId>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Jsoup</name>
+  <name>emailValidator</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -33,11 +21,17 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
+    <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-email -->
     <dependency>
-      <groupId>org.jsoup</groupId>
-      <artifactId>jsoup</artifactId>
-      <version>1.15.3</version>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-email</artifactId>
+      <version>1.5</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/commons-validator/commons-validator -->
+    <dependency>
+      <groupId>commons-validator</groupId>
+      <artifactId>commons-validator</artifactId>
+      <version>1.7</version>
     </dependency>
 
   </dependencies>
